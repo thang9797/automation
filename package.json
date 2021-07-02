@@ -1,0 +1,23 @@
+{
+  "name": "web-automation-test-voi-selenium-va-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^15.12.5",
+    "@types/webdriverio": "^5.0.0",
+    "@wdio/mocha-framework": "^7.7.3",
+    "wdio-selenium-standalone-service": "0.0.12",
+    "webdriverio": "^7.7.4"
+  },
+  "dependencies": {
+    "@wdio/dot-reporter": "^7.7.3",
+    "@wdio/local-runner": "^7.7.4"
+  },
+  "description": ""
+}
